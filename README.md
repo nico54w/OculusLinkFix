@@ -13,6 +13,8 @@ Set-ExecutionPolicy Unrestricted
 ```
 
 # Instructions
+Please open the Oculus App before this.
+
 1. Download restarter.ps1
 2. Right click restarter.ps1 and select "run with Powershell"
 3. Select your INTEGRATED Gpu
